@@ -191,6 +191,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 129.54 63.5)
+		(size 35.56 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d6596c8a-4bf9-48e1-85dc-cf3f0714a3f3")
+		(property "Sheetname" "Compute_module"
+			(at 129.54 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compute_module.kicad_sch"
+			(at 129.54 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RF_Comput_mix"
+				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d"
+					(page "33")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

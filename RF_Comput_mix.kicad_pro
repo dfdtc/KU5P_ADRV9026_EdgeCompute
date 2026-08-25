@@ -417,7 +417,7 @@
         "uuid": "68d0ebd3-4770-4e42-a15d-94722405f64d"
       }
     ],
-    "used_designators": "R44-50,R54,R58-63,R75-83,#FLG2-12,J3-8,#PWR47-65,#PWR71,#PWR92,#PWR94,#PWR111,#PWR131,#PWR155-158,#PWR163-191,#PWR194-198,#PWR202-209,#PWR213,#PWR241,#PWR246-296,NT3,NT23-24,C73-74,C105-106,C235-242,C246-252,C271-385,U5,U7-8,U12-13,RN9,D2,M1,Q1,OSC1,Y1-2",
+    "used_designators": "R44-50,R54,R58-63,R75-124,#FLG2-12,J3-23,T1-18,#PWR47-65,#PWR71,#PWR92,#PWR94,#PWR111,#PWR131,#PWR155-158,#PWR163-191,#PWR194-198,#PWR202-209,#PWR213,#PWR241,#PWR246-417,NT3,NT23-24,C73-74,C105-106,C235-242,C246-252,C271-547,U5,U7-8,U12-24,RN9,D2-4,M1,Q1,OSC1,Y1-2,IC6-7,L1-12,L19-35",
     "variants": []
   },
   "sheets": [
@@ -530,16 +530,16 @@
       "ADRV9026"
     ],
     [
-      "7f59dcdd-3551-45a9-b83b-ef08d2d474d6",
-      "RF_PATH"
+      "56ebd52b-e60a-48d8-a134-0825a055589f",
+      "Compute_TypeC"
     ],
     [
-      "c9d05840-7eb9-44bd-bbaa-1de4def8b27f",
-      "TX_PATH"
-    ],
-    [
-      "356da3d4-1863-4a91-82d6-4c3afa9e2cc1",
+      "a03c48b5-1e06-462c-b91a-ca48f142219f",
       "RX_PATH"
+    ],
+    [
+      "10711cd2-8e59-484b-89ad-4b54f78aa890",
+      "TX_PATH"
     ],
     [
       "9a76acf6-6ad9-4fe7-90a8-08703e720ec5",
@@ -548,6 +548,26 @@
     [
       "ade3cd01-5201-4b57-b635-fb2ee9f34757",
       "SYS_CLK"
+    ],
+    [
+      "d6596c8a-4bf9-48e1-85dc-cf3f0714a3f3",
+      "Compute_module"
+    ],
+    [
+      "f1b8fe6a-ea2e-4616-986b-3732ab6cafa2",
+      "Module_power"
+    ],
+    [
+      "570145e7-395a-4a59-8d20-d051d83fbf32",
+      "Module_GPIO"
+    ],
+    [
+      "95064118-e2a7-4ec8-a96f-e3ed58a074c8",
+      "RF_SERDES"
+    ],
+    [
+      "baddc41e-b581-4478-b01c-3e147e27400d",
+      "compute_dispaly"
     ]
   ],
   "text_variables": {},

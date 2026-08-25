@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "585a01cf-6462-4d06-8e1a-1331de7f9534")
+	(uuid "587cfe36-80bb-4bd0-b287-a8badd3f2feb")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -2881,7 +2881,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0acc542f-2bc6-44f7-b6d7-df87370021f1")
-		(property "Reference" "#PWR238"
+		(property "Reference" "#PWR0238"
 			(at 97.79 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -2941,7 +2941,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR238")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -2975,7 +2975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 79.248 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3068,7 +3068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 65.532 34.036 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3151,7 +3151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1570419b-50b6-4a63-ac00-1b1a53d2b494")
-		(property "Reference" "#PWR197"
+		(property "Reference" "#PWR0197"
 			(at 64.77 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3211,7 +3211,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR197")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 			)
@@ -3251,7 +3251,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "12.4k"
 			(at 116.078 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3338,7 +3338,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 129.032 35.306 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3431,7 +3431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "68.1k"
 			(at 116.078 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3508,7 +3508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46d528fa-aac2-4ba0-8f4f-c83a2a95cbcf")
-		(property "Reference" "#PWR240"
+		(property "Reference" "#PWR0240"
 			(at 135.89 127 0)
 			(hide yes)
 			(show_name no)
@@ -3568,7 +3568,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR240")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -3602,7 +3602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "4.7u"
 			(at 84.582 131.826 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3689,7 +3689,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 84.582 84.3645 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3776,7 +3776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "49.3k"
 			(at 116.078 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3863,7 +3863,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 129.032 116.586 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3908,10 +3908,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0075cd8a-5f5d-488e-8087-d35809371c66")
+			(uuid "0075cd8a-5f5d-488e-8087-d35809371c67")
 		)
 		(pin "1"
-			(uuid "3c8978d4-0159-4d81-bcfc-aad8c8e54bb8")
+			(uuid "3c8978d4-0159-4d81-bcfc-aad8c8e54bb9")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -4062,7 +4062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "4.7u"
 			(at 84.582 175.006 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4107,10 +4107,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "b47534c7-e5e4-4d8c-b3c9-440b8bf26ba0")
+			(uuid "b47534c7-e5e4-4d8c-b3c9-440b8bf26ba1")
 		)
 		(pin "1"
-			(uuid "081dbc03-313e-432c-9574-5fcc9b9185b5")
+			(uuid "081dbc03-313e-432c-9574-5fcc9b9185b6")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -4149,7 +4149,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "12k"
 			(at 91.948 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4236,7 +4236,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "12.4k"
 			(at 116.078 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4323,7 +4323,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "120ohm@100MHz"
 			(at 132.0419 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "120ohm@100MHz"
 			(at 132.0419 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4495,7 +4495,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "12.4k"
 			(at 116.078 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4540,10 +4540,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f5781a99-304a-45d3-b82b-5d2514fbc2b5")
+			(uuid "f5781a99-304a-45d3-b82b-5d2514fbc2b6")
 		)
 		(pin "1"
-			(uuid "477e4ea7-a35b-4cef-8c58-ecde130dc4f8")
+			(uuid "477e4ea7-a35b-4cef-8c58-ecde130dc4f9")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -4588,7 +4588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 79.248 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4633,10 +4633,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1cdddb95-666d-4d2c-ab79-2949135287ce")
+			(uuid "1cdddb95-666d-4d2c-ab79-2949135287cf")
 		)
 		(pin "1"
-			(uuid "f788def0-3be4-4bcf-99a0-f78899ada10d")
+			(uuid "f788def0-3be4-4bcf-99a0-f78899ada10e")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -4675,7 +4675,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 116.078 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4756,7 +4756,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 116.078 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4827,7 +4827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84613ff8-5114-41c3-817f-896ca8f428a4")
-		(property "Reference" "#PWR243"
+		(property "Reference" "#PWR0243"
 			(at 97.79 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -4882,12 +4882,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "39cbf9ef-76c5-4f10-8a94-6ee405c3b758")
+			(uuid "39cbf9ef-76c5-4f10-8a94-6ee405c3b759")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR243")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -4911,7 +4911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8582cf02-934f-4332-91b1-7ce509e44948")
-		(property "Reference" "#PWR210"
+		(property "Reference" "#PWR0210"
 			(at 114.3 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4971,7 +4971,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR210")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -5005,7 +5005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 129.032 159.766 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5050,10 +5050,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0075cd8a-5f5d-488e-8087-d35809371c66")
+			(uuid "0075cd8a-5f5d-488e-8087-d35809371c68")
 		)
 		(pin "1"
-			(uuid "3c8978d4-0159-4d81-bcfc-aad8c8e54bb8")
+			(uuid "3c8978d4-0159-4d81-bcfc-aad8c8e54bba")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5092,7 +5092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 79.248 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5137,10 +5137,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1cdddb95-666d-4d2c-ab79-2949135287ce")
+			(uuid "1cdddb95-666d-4d2c-ab79-2949135287d0")
 		)
 		(pin "1"
-			(uuid "f788def0-3be4-4bcf-99a0-f78899ada10d")
+			(uuid "f788def0-3be4-4bcf-99a0-f78899ada10f")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5179,7 +5179,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "120ohm@100MHz"
 			(at 132.0419 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5223,10 +5223,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d7eee1e0-7ca9-48ac-be04-c94cb00230c6")
+			(uuid "d7eee1e0-7ca9-48ac-be04-c94cb00230c7")
 		)
 		(pin "1"
-			(uuid "a78263e4-902a-48f4-ac99-72e789464bb4")
+			(uuid "a78263e4-902a-48f4-ac99-72e789464bb5")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5255,7 +5255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ae04fc0-112a-4d5f-ad3b-8e0dcaa8a6ab")
-		(property "Reference" "#PWR239"
+		(property "Reference" "#PWR0239"
 			(at 114.3 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -5315,7 +5315,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR239")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -5392,37 +5392,37 @@
 			)
 		)
 		(pin "1"
-			(uuid "d165bdac-ea50-4fa6-8427-12548361bc39")
+			(uuid "d165bdac-ea50-4fa6-8427-12548361bc3a")
 		)
 		(pin "3"
-			(uuid "114cd02a-fbaf-4b88-b4fd-35beca19b867")
+			(uuid "114cd02a-fbaf-4b88-b4fd-35beca19b868")
 		)
 		(pin "2"
-			(uuid "0ace297a-fd90-4221-b033-ae9c5b748b9d")
+			(uuid "0ace297a-fd90-4221-b033-ae9c5b748b9e")
 		)
 		(pin "10"
-			(uuid "7b604d8a-c18e-4b78-a3b7-b1d7ecbd7cc8")
+			(uuid "7b604d8a-c18e-4b78-a3b7-b1d7ecbd7cc9")
 		)
 		(pin "5"
-			(uuid "7191d584-f8fd-433b-9211-fed209891489")
+			(uuid "7191d584-f8fd-433b-9211-fed20989148a")
 		)
 		(pin "6"
-			(uuid "e3888693-9172-4582-b307-ccf41637609c")
+			(uuid "e3888693-9172-4582-b307-ccf41637609d")
 		)
 		(pin "8"
-			(uuid "1622ca0a-10f1-4b6c-8b7e-b50c60c5593a")
+			(uuid "1622ca0a-10f1-4b6c-8b7e-b50c60c5593b")
 		)
 		(pin "4"
-			(uuid "d7df2964-5393-4de9-ae46-1782ae384937")
+			(uuid "d7df2964-5393-4de9-ae46-1782ae384938")
 		)
 		(pin "7"
-			(uuid "acd190d1-78c0-49f1-b276-f80c128f30b4")
+			(uuid "acd190d1-78c0-49f1-b276-f80c128f30b5")
 		)
 		(pin "11"
-			(uuid "ccf235cd-db78-4e2a-9612-ebb08851e91d")
+			(uuid "ccf235cd-db78-4e2a-9612-ebb08851e91e")
 		)
 		(pin "9"
-			(uuid "dcd12124-9c65-4786-a08d-68ed2880e626")
+			(uuid "dcd12124-9c65-4786-a08d-68ed2880e627")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5461,7 +5461,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 136.652 159.766 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5538,7 +5538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e379a6f-f318-434b-876d-3061b95e9619")
-		(property "Reference" "#PWR245"
+		(property "Reference" "#PWR0245"
 			(at 135.89 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -5593,12 +5593,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "241dcefd-75ad-4fbc-b5e6-fbca01a81030")
+			(uuid "241dcefd-75ad-4fbc-b5e6-fbca01a81031")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR245")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)
@@ -5632,7 +5632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "12.4k"
 			(at 116.078 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5677,10 +5677,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f5781a99-304a-45d3-b82b-5d2514fbc2b5")
+			(uuid "f5781a99-304a-45d3-b82b-5d2514fbc2b7")
 		)
 		(pin "1"
-			(uuid "477e4ea7-a35b-4cef-8c58-ecde130dc4f8")
+			(uuid "477e4ea7-a35b-4cef-8c58-ecde130dc4fa")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5709,7 +5709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a028df0-cbd3-4ef0-9316-bd003fcdf23d")
-		(property "Reference" "#PWR212"
+		(property "Reference" "#PWR0212"
 			(at 135.89 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -5769,7 +5769,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR212")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -5803,7 +5803,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "98.8k"
 			(at 116.078 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5848,10 +5848,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "70850c49-230e-4a61-acc7-9ef845a2a682")
+			(uuid "70850c49-230e-4a61-acc7-9ef845a2a683")
 		)
 		(pin "1"
-			(uuid "3ebfc61e-91f4-4c89-8313-1e83bf5a1fb5")
+			(uuid "3ebfc61e-91f4-4c89-8313-1e83bf5a1fb6")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5890,7 +5890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "68.1k"
 			(at 116.078 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5935,10 +5935,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "70850c49-230e-4a61-acc7-9ef845a2a682")
+			(uuid "70850c49-230e-4a61-acc7-9ef845a2a684")
 		)
 		(pin "1"
-			(uuid "3ebfc61e-91f4-4c89-8313-1e83bf5a1fb5")
+			(uuid "3ebfc61e-91f4-4c89-8313-1e83bf5a1fb7")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -5983,7 +5983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 129.032 67.056 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6070,7 +6070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 65.532 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6115,10 +6115,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a524acc4-daa3-423e-8f7c-fdabfe2cc498")
+			(uuid "a524acc4-daa3-423e-8f7c-fdabfe2cc499")
 		)
 		(pin "1"
-			(uuid "9b83e722-0b33-43a6-b1aa-f5859da7342a")
+			(uuid "9b83e722-0b33-43a6-b1aa-f5859da7342b")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -6147,7 +6147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b130a58a-39cf-42e9-9c79-401e8c904985")
-		(property "Reference" "#PWR201"
+		(property "Reference" "#PWR0201"
 			(at 97.79 94.7785 0)
 			(hide yes)
 			(show_name no)
@@ -6207,7 +6207,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR201")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -6241,7 +6241,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "120ohm@100MHz"
 			(at 132.0419 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6285,10 +6285,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d7eee1e0-7ca9-48ac-be04-c94cb00230c6")
+			(uuid "d7eee1e0-7ca9-48ac-be04-c94cb00230c8")
 		)
 		(pin "1"
-			(uuid "a78263e4-902a-48f4-ac99-72e789464bb4")
+			(uuid "a78263e4-902a-48f4-ac99-72e789464bb6")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -6333,7 +6333,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 79.248 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6420,7 +6420,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 65.532 65.786 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6497,7 +6497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf8e40f5-6387-49f3-8d02-27369bc7a74f")
-		(property "Reference" "#PWR202"
+		(property "Reference" "#PWR0202"
 			(at 114.3 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6552,12 +6552,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3a74423e-7924-41ea-8e04-939afea72dbc")
+			(uuid "3a74423e-7924-41ea-8e04-939afea72dbd")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR202")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -6597,7 +6597,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 136.652 35.306 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6642,10 +6642,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "815667f5-bb4a-4197-a937-1921a5199ef2")
+			(uuid "815667f5-bb4a-4197-a937-1921a5199ef3")
 		)
 		(pin "1"
-			(uuid "38c7e71f-ed01-482e-84a2-8de0318ab542")
+			(uuid "38c7e71f-ed01-482e-84a2-8de0318ab543")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -6690,7 +6690,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.32k"
 			(at 91.948 83.3485 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6767,7 +6767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb23834c-4278-4772-9a82-f7b2cdb1317c")
-		(property "Reference" "#PWR237"
+		(property "Reference" "#PWR0237"
 			(at 64.77 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6822,12 +6822,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "916863b2-712d-4cf0-a843-cf5bf95d04f4")
+			(uuid "916863b2-712d-4cf0-a843-cf5bf95d04f5")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR237")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -6851,7 +6851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb84c55c-49c1-441a-98fe-6b0bdc7127cf")
-		(property "Reference" "#PWR244"
+		(property "Reference" "#PWR0244"
 			(at 114.3 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -6906,12 +6906,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3a74423e-7924-41ea-8e04-939afea72dbc")
+			(uuid "3a74423e-7924-41ea-8e04-939afea72dbe")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR244")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -6945,7 +6945,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 136.652 116.586 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6990,10 +6990,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "815667f5-bb4a-4197-a937-1921a5199ef2")
+			(uuid "815667f5-bb4a-4197-a937-1921a5199ef4")
 		)
 		(pin "1"
-			(uuid "38c7e71f-ed01-482e-84a2-8de0318ab542")
+			(uuid "38c7e71f-ed01-482e-84a2-8de0318ab544")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -7022,7 +7022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6e0dd8c-128e-4e31-9127-1c010cd154a9")
-		(property "Reference" "#PWR199"
+		(property "Reference" "#PWR0199"
 			(at 64.77 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7082,7 +7082,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR199")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -7228,7 +7228,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "6.65k"
 			(at 91.948 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7273,10 +7273,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "36541e4e-1d4c-40d3-9b72-3eb57e37b0ec")
+			(uuid "36541e4e-1d4c-40d3-9b72-3eb57e37b0ed")
 		)
 		(pin "1"
-			(uuid "0cd027cf-17ed-439a-acc9-93c907a7bba5")
+			(uuid "0cd027cf-17ed-439a-acc9-93c907a7bba6")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -7315,7 +7315,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 136.652 67.056 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7402,7 +7402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 65.532 158.496 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7447,10 +7447,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a524acc4-daa3-423e-8f7c-fdabfe2cc498")
+			(uuid "a524acc4-daa3-423e-8f7c-fdabfe2cc49a")
 		)
 		(pin "1"
-			(uuid "9b83e722-0b33-43a6-b1aa-f5859da7342a")
+			(uuid "9b83e722-0b33-43a6-b1aa-f5859da7342c")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -7532,37 +7532,37 @@
 			)
 		)
 		(pin "1"
-			(uuid "d165bdac-ea50-4fa6-8427-12548361bc39")
+			(uuid "d165bdac-ea50-4fa6-8427-12548361bc3b")
 		)
 		(pin "3"
-			(uuid "114cd02a-fbaf-4b88-b4fd-35beca19b867")
+			(uuid "114cd02a-fbaf-4b88-b4fd-35beca19b869")
 		)
 		(pin "2"
-			(uuid "0ace297a-fd90-4221-b033-ae9c5b748b9d")
+			(uuid "0ace297a-fd90-4221-b033-ae9c5b748b9f")
 		)
 		(pin "10"
-			(uuid "7b604d8a-c18e-4b78-a3b7-b1d7ecbd7cc8")
+			(uuid "7b604d8a-c18e-4b78-a3b7-b1d7ecbd7cca")
 		)
 		(pin "5"
-			(uuid "7191d584-f8fd-433b-9211-fed209891489")
+			(uuid "7191d584-f8fd-433b-9211-fed20989148b")
 		)
 		(pin "6"
-			(uuid "e3888693-9172-4582-b307-ccf41637609c")
+			(uuid "e3888693-9172-4582-b307-ccf41637609e")
 		)
 		(pin "8"
-			(uuid "1622ca0a-10f1-4b6c-8b7e-b50c60c5593a")
+			(uuid "1622ca0a-10f1-4b6c-8b7e-b50c60c5593c")
 		)
 		(pin "4"
-			(uuid "d7df2964-5393-4de9-ae46-1782ae384937")
+			(uuid "d7df2964-5393-4de9-ae46-1782ae384939")
 		)
 		(pin "7"
-			(uuid "acd190d1-78c0-49f1-b276-f80c128f30b4")
+			(uuid "acd190d1-78c0-49f1-b276-f80c128f30b6")
 		)
 		(pin "11"
-			(uuid "ccf235cd-db78-4e2a-9612-ebb08851e91d")
+			(uuid "ccf235cd-db78-4e2a-9612-ebb08851e91f")
 		)
 		(pin "9"
-			(uuid "dcd12124-9c65-4786-a08d-68ed2880e626")
+			(uuid "dcd12124-9c65-4786-a08d-68ed2880e628")
 		)
 		(instances
 			(project "RF_Comput_mix"
@@ -7597,7 +7597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9c15f7d-71a7-412e-85c9-45fd29f0936c")
-		(property "Reference" "#PWR242"
+		(property "Reference" "#PWR0242"
 			(at 64.77 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7652,12 +7652,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "916863b2-712d-4cf0-a843-cf5bf95d04f4")
+			(uuid "916863b2-712d-4cf0-a843-cf5bf95d04f6")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR242")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -7681,7 +7681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb216842-6ac7-48a6-b3a6-31dba2ddc054")
-		(property "Reference" "#PWR200"
+		(property "Reference" "#PWR0200"
 			(at 97.79 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7736,12 +7736,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "39cbf9ef-76c5-4f10-8a94-6ee405c3b758")
+			(uuid "39cbf9ef-76c5-4f10-8a94-6ee405c3b75a")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR200")
+					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -7771,7 +7771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fccca782-b330-42c7-a280-6f78c0a60dd9")
-		(property "Reference" "#PWR211"
+		(property "Reference" "#PWR0211"
 			(at 135.89 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7826,12 +7826,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "241dcefd-75ad-4fbc-b5e6-fbca01a81030")
+			(uuid "241dcefd-75ad-4fbc-b5e6-fbca01a81032")
 		)
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/8be565eb-6646-4b8d-88b2-96dce34e1a55"
-					(reference "#PWR211")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)

@@ -3729,7 +3729,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 169.672 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3811,7 +3811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 226.06 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3911,7 +3911,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 207.01 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4010,7 +4010,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 151.892 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4092,7 +4092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 187.96 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4192,7 +4192,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 100.33 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4274,7 +4274,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 168.91 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4373,7 +4373,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 143.002 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4454,7 +4454,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 219.202 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4612,7 +4612,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 158.242 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4693,7 +4693,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 221.742 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4774,7 +4774,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 201.422 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4855,7 +4855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 212.852 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4936,7 +4936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 210.312 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5094,7 +5094,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 160.782 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5175,7 +5175,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.182 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5334,7 +5334,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 122.682 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5493,7 +5493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 113.792 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5574,7 +5574,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 131.572 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5655,7 +5655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 116.332 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5736,7 +5736,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10n"
 			(at 242.062 26.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5817,7 +5817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 134.112 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5898,7 +5898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 192.532 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6057,7 +6057,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 246.38 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6233,7 +6233,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 176.022 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6314,7 +6314,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 178.562 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6396,7 +6396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 130.81 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6495,7 +6495,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 107.442 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6576,7 +6576,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 167.132 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6657,7 +6657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 140.462 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6739,7 +6739,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "39ohm"
 			(at 149.86 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6838,7 +6838,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 195.072 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6919,7 +6919,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 125.222 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7000,7 +7000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 149.352 145.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7081,7 +7081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 203.962 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)

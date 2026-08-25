@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "7f253640-09a3-44ac-9d82-f9037330994c")
+	(uuid "2361e0ba-d9e9-44b4-b511-224cae78d365")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -628,13 +628,6 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(jumper_pin_groups
-				("16" "60" "63")
-				("43" "44" "48")
-				("36" "37" "51")
-				("19" "20" "21" "22" "23" "24")
-				("10" "11" "12" "13" "14" "15")
-			)
 			(property "Reference" "IC"
 				(at 0 0.254 0)
 				(show_name no)
@@ -4918,7 +4911,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 166.878 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5190,7 +5183,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140K"
 			(at 120.65 119.634 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5365,7 +5358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 168.148 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5459,7 +5452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "4.7u"
 			(at 57.404 54.102 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5552,7 +5545,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 147.828 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5633,7 +5626,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 146.558 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5715,7 +5708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 226.822 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5897,7 +5890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 167.894 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5990,7 +5983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100u"
 			(at 171.958 61.468 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6072,7 +6065,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f725319-f60c-40ab-b777-d15a4c56ca61")
-		(property "Reference" "#PWR230"
+		(property "Reference" "#PWR0230"
 			(at 237.49 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6138,7 +6131,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR230")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -6263,7 +6256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 231.14 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6356,7 +6349,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 146.558 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6437,7 +6430,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 172.974 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6520,7 +6513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "380ef7af-2c62-4b2e-8358-8d47599d7bf3")
-		(property "Reference" "#PWR220"
+		(property "Reference" "#PWR0220"
 			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6586,7 +6579,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR220")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -6899,7 +6892,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100K"
 			(at 238.252 103.886 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7068,7 +7061,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 152.908 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7160,7 +7153,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 238.252 101.346 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7252,7 +7245,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 137.668 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7323,7 +7316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "477eb0c4-2b4a-46f7-821b-ff26aaabed32")
-		(property "Reference" "#PWR233"
+		(property "Reference" "#PWR0233"
 			(at 255.27 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7389,7 +7382,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR233")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -7423,7 +7416,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 147.574 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7504,7 +7497,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "2.2u"
 			(at 131.318 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7597,7 +7590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 162.814 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7690,7 +7683,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 137.668 95.758 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7771,7 +7764,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 142.494 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7942,7 +7935,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 142.748 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8112,7 +8105,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 157.988 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8294,7 +8287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 157.734 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8387,7 +8380,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 136.398 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8468,7 +8461,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 163.068 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8561,7 +8554,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 136.398 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8642,7 +8635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 151.638 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8735,7 +8728,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 151.638 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8828,7 +8821,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 141.478 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8909,7 +8902,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 171.958 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9002,7 +8995,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "2.2u"
 			(at 132.334 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9095,7 +9088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 161.798 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9362,7 +9355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "826ab637-3c92-446a-86f4-932135dc16d7")
-		(property "Reference" "#PWR221"
+		(property "Reference" "#PWR0221"
 			(at 124.46 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9428,7 +9421,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR221")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -9462,7 +9455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "2.2u"
 			(at 132.588 108.458 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9833,7 +9826,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "39.2K"
 			(at 250.952 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9925,7 +9918,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 156.718 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10199,7 +10192,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "121K"
 			(at 268.732 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10292,7 +10285,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "4.7u"
 			(at 56.896 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10384,7 +10377,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "69.8K"
 			(at 76.2 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10465,7 +10458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ad11dfaa-9b51-42b7-8928-78fc1fb8bc0c")
-		(property "Reference" "#PWR227"
+		(property "Reference" "#PWR0227"
 			(at 228.6 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -10525,7 +10518,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR227")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -10559,7 +10552,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 152.908 95.758 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10652,7 +10645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 238.76 87.376 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10745,7 +10738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 156.718 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10827,7 +10820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b737a6b1-a7c3-430c-a046-ff03db1a6cb1")
-		(property "Reference" "#PWR216"
+		(property "Reference" "#PWR0216"
 			(at 72.39 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10893,7 +10886,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR216")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -10927,7 +10920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "2.2u"
 			(at 131.318 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11010,7 +11003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcc9db1f-f5fc-43ea-9298-02de00dbdbb3")
-		(property "Reference" "#PWR226"
+		(property "Reference" "#PWR0226"
 			(at 222.25 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -11076,7 +11069,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR226")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -11111,7 +11104,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 65.532 98.044 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11193,7 +11186,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c168ed8d-3a54-4420-9db7-77f10dbd0499")
-		(property "Reference" "#PWR217"
+		(property "Reference" "#PWR0217"
 			(at 72.39 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -11259,7 +11252,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR217")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -11292,7 +11285,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "121K"
 			(at 120.65 71.628 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11385,7 +11378,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100u"
 			(at 47.244 54.864 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11477,7 +11470,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "180K"
 			(at 260.604 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11559,7 +11552,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0d4a216-9548-4aac-b37a-6f71abb0f806")
-		(property "Reference" "#PWR234"
+		(property "Reference" "#PWR0234"
 			(at 264.16 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -11625,7 +11618,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR234")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -11659,7 +11652,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 64.262 54.356 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11741,7 +11734,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e96fdc4a-2fbd-412c-b932-3a0f683c4287")
-		(property "Reference" "#PWR228"
+		(property "Reference" "#PWR0228"
 			(at 228.6 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -11807,7 +11800,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR228")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -11935,7 +11928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 141.478 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12109,7 +12102,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100K"
 			(at 238.252 106.426 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12189,7 +12182,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 161.798 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12282,7 +12275,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100u"
 			(at 173.228 109.728 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12469,7 +12462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22u"
 			(at 166.878 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12832,7 +12825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff480acc-2d01-406e-a41e-d06cca06f71c")
-		(property "Reference" "#PWR235"
+		(property "Reference" "#PWR0235"
 			(at 273.05 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -12898,7 +12891,7 @@
 			)
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/ca568b1d-a558-4336-b7e2-be12f8fb35d1/dbeb9350-aa4d-4dea-b373-b9a3dae8efc3"
-					(reference "#PWR235")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)

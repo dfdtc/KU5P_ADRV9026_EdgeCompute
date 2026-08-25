@@ -7257,7 +7257,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "026e5707-53ae-44c8-8e67-663b05f3b72c")
-		(property "Reference" "#PWR0264"
+		(property "Reference" "#PWR264"
 			(at 31.75 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7317,7 +7317,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0264")
+					(reference "#PWR264")
 					(unit 1)
 				)
 			)
@@ -7578,7 +7578,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f648e12-0b19-4dea-84d6-8ae2577bc486")
-		(property "Reference" "#PWR0272"
+		(property "Reference" "#PWR272"
 			(at 196.85 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7638,7 +7638,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0272")
+					(reference "#PWR272")
 					(unit 1)
 				)
 			)
@@ -7899,7 +7899,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "136e1951-2951-4193-a197-c22c8adba802")
-		(property "Reference" "#PWR0271"
+		(property "Reference" "#PWR271"
 			(at 196.85 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -7959,7 +7959,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0271")
+					(reference "#PWR271")
 					(unit 1)
 				)
 			)
@@ -7976,7 +7976,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "140ed2c0-bb6e-47c7-884f-a2965388490b")
-		(property "Reference" "#PWR0261"
+		(property "Reference" "#PWR261"
 			(at 31.75 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8036,7 +8036,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0261")
+					(reference "#PWR261")
 					(unit 1)
 				)
 			)
@@ -8053,7 +8053,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1455540b-1e05-41bf-908d-e74725c84cf0")
-		(property "Reference" "#PWR0274"
+		(property "Reference" "#PWR274"
 			(at 209.55 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8113,7 +8113,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0274")
+					(reference "#PWR274")
 					(unit 1)
 				)
 			)
@@ -8212,7 +8212,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "178ba984-6dc6-4b33-9d9f-e6cf2b5a77e1")
-		(property "Reference" "#PWR0287"
+		(property "Reference" "#PWR287"
 			(at 210.82 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -8272,7 +8272,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0287")
+					(reference "#PWR287")
 					(unit 1)
 				)
 			)
@@ -8371,7 +8371,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19b2105a-0004-40d1-aa92-77a2ccaa8bf3")
-		(property "Reference" "#PWR0255"
+		(property "Reference" "#PWR255"
 			(at 238.76 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8431,7 +8431,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0255")
+					(reference "#PWR255")
 					(unit 1)
 				)
 			)
@@ -8529,7 +8529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28f63505-8959-4204-a23f-2d108c25cf86")
-		(property "Reference" "#PWR0260"
+		(property "Reference" "#PWR260"
 			(at 31.75 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -8589,7 +8589,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0260")
+					(reference "#PWR260")
 					(unit 1)
 				)
 			)
@@ -9177,7 +9177,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "36036e86-e541-4a3b-8931-ef371564ccd3")
-		(property "Reference" "#PWR0288"
+		(property "Reference" "#PWR288"
 			(at 210.82 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9237,7 +9237,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0288")
+					(reference "#PWR288")
 					(unit 1)
 				)
 			)
@@ -9336,7 +9336,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c6ef28f-a5eb-4a5a-8e13-d7b96278ecb7")
-		(property "Reference" "#PWR0286"
+		(property "Reference" "#PWR286"
 			(at 210.82 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9396,7 +9396,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0286")
+					(reference "#PWR286")
 					(unit 1)
 				)
 			)
@@ -9575,7 +9575,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "418c3aa5-c685-4645-bdcf-34679ef8a304")
-		(property "Reference" "#PWR0263"
+		(property "Reference" "#PWR263"
 			(at 31.75 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -9635,7 +9635,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0263")
+					(reference "#PWR263")
 					(unit 1)
 				)
 			)
@@ -9653,7 +9653,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44bb1d63-ab2d-4568-844e-66cbe2b09236")
-		(property "Reference" "#PWR0290"
+		(property "Reference" "#PWR290"
 			(at 210.82 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9713,7 +9713,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0290")
+					(reference "#PWR290")
 					(unit 1)
 				)
 			)
@@ -10706,7 +10706,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6358bcf4-b601-459e-aab2-4562cd4e8bab")
-		(property "Reference" "#PWR0276"
+		(property "Reference" "#PWR276"
 			(at 209.55 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -10766,7 +10766,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0276")
+					(reference "#PWR276")
 					(unit 1)
 				)
 			)
@@ -10784,7 +10784,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65db5dcd-bd13-41f9-b4af-60dd197841ef")
-		(property "Reference" "#PWR0273"
+		(property "Reference" "#PWR273"
 			(at 196.85 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -10844,7 +10844,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0273")
+					(reference "#PWR273")
 					(unit 1)
 				)
 			)
@@ -10942,7 +10942,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71283fd9-870d-4c50-a51a-2725bcbd6e8b")
-		(property "Reference" "#PWR0257"
+		(property "Reference" "#PWR257"
 			(at 19.05 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -11002,7 +11002,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0257")
+					(reference "#PWR257")
 					(unit 1)
 				)
 			)
@@ -11019,7 +11019,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71ddc660-569c-4e10-a00d-1ba589404c20")
-		(property "Reference" "#PWR0256"
+		(property "Reference" "#PWR256"
 			(at 203.2 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11079,7 +11079,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0256")
+					(reference "#PWR256")
 					(unit 1)
 				)
 			)
@@ -11585,7 +11585,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cf6e3f2-5815-43a0-8d96-bbf4a1a5bb72")
-		(property "Reference" "#PWR0283"
+		(property "Reference" "#PWR283"
 			(at 243.84 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -11645,7 +11645,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0283")
+					(reference "#PWR283")
 					(unit 1)
 				)
 			)
@@ -12515,7 +12515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86eb3821-1c86-4b79-a47f-63fe77c574d1")
-		(property "Reference" "#PWR0259"
+		(property "Reference" "#PWR259"
 			(at 31.75 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -12575,7 +12575,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0259")
+					(reference "#PWR259")
 					(unit 1)
 				)
 			)
@@ -12592,7 +12592,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "875d007a-0b81-48b4-b7c8-8a07f5ab6221")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR71"
 			(at 115.7544 176.3729 0)
 			(hide yes)
 			(show_name no)
@@ -12652,7 +12652,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR071")
+					(reference "#PWR71")
 					(unit 1)
 				)
 			)
@@ -12669,7 +12669,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a3da9c2-f5f6-45dd-afc2-98be71b5b806")
-		(property "Reference" "#PWR0267"
+		(property "Reference" "#PWR267"
 			(at 19.05 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -12729,7 +12729,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0267")
+					(reference "#PWR267")
 					(unit 1)
 				)
 			)
@@ -13072,7 +13072,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9095d3b1-c980-4a76-901f-35cea5c02af9")
-		(property "Reference" "#PWR0254"
+		(property "Reference" "#PWR254"
 			(at 66.04 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -13132,7 +13132,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0254")
+					(reference "#PWR254")
 					(unit 1)
 				)
 			)
@@ -13231,7 +13231,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95c2d4b4-be96-47ab-8862-b0ae96231a2c")
-		(property "Reference" "#PWR0277"
+		(property "Reference" "#PWR277"
 			(at 243.84 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13291,7 +13291,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0277")
+					(reference "#PWR277")
 					(unit 1)
 				)
 			)
@@ -13797,7 +13797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9afe38a1-26cf-475f-83ff-f3bf623aa4a7")
-		(property "Reference" "#PWR0284"
+		(property "Reference" "#PWR284"
 			(at 196.85 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -13857,7 +13857,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0284")
+					(reference "#PWR284")
 					(unit 1)
 				)
 			)
@@ -14609,7 +14609,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afb8948d-437c-42e9-a2fc-685b99cb2c17")
-		(property "Reference" "#PWR0280"
+		(property "Reference" "#PWR280"
 			(at 243.84 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -14669,7 +14669,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0280")
+					(reference "#PWR280")
 					(unit 1)
 				)
 			)
@@ -14848,7 +14848,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b32a39ce-44cc-441b-ad0d-b6741f6a2ff1")
-		(property "Reference" "#PWR0266"
+		(property "Reference" "#PWR266"
 			(at 31.75 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -14908,7 +14908,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0266")
+					(reference "#PWR266")
 					(unit 1)
 				)
 			)
@@ -15006,7 +15006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "baf4d985-fbec-4716-9e3f-439a523766a5")
-		(property "Reference" "#PWR0279"
+		(property "Reference" "#PWR279"
 			(at 243.84 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15066,7 +15066,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0279")
+					(reference "#PWR279")
 					(unit 1)
 				)
 			)
@@ -15083,7 +15083,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb493b6b-5cfe-427f-b900-51a36d6a5094")
-		(property "Reference" "#PWR0268"
+		(property "Reference" "#PWR268"
 			(at 66.04 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -15143,7 +15143,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0268")
+					(reference "#PWR268")
 					(unit 1)
 				)
 			)
@@ -15161,7 +15161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbdd3673-69cc-4bba-ba90-df0ee1f6b735")
-		(property "Reference" "#PWR0250"
+		(property "Reference" "#PWR250"
 			(at 125.9144 176.3729 0)
 			(hide yes)
 			(show_name no)
@@ -15221,7 +15221,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0250")
+					(reference "#PWR250")
 					(unit 1)
 				)
 			)
@@ -15319,7 +15319,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd595950-8e29-457b-a5a7-9cd04d709acc")
-		(property "Reference" "#PWR0262"
+		(property "Reference" "#PWR262"
 			(at 31.75 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -15379,7 +15379,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0262")
+					(reference "#PWR262")
 					(unit 1)
 				)
 			)
@@ -15639,7 +15639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3b23ada-0b0d-4d08-9644-cfcd2d4fb758")
-		(property "Reference" "#PWR0281"
+		(property "Reference" "#PWR281"
 			(at 243.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -15699,7 +15699,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0281")
+					(reference "#PWR281")
 					(unit 1)
 				)
 			)
@@ -15879,7 +15879,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c64fbe45-f828-497e-b2b9-020117bfe764")
-		(property "Reference" "#PWR0270"
+		(property "Reference" "#PWR270"
 			(at 196.85 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15939,7 +15939,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0270")
+					(reference "#PWR270")
 					(unit 1)
 				)
 			)
@@ -16527,7 +16527,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d92b49d7-bd20-448b-a905-4855d8f0e170")
-		(property "Reference" "#PWR0278"
+		(property "Reference" "#PWR278"
 			(at 243.84 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -16587,7 +16587,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0278")
+					(reference "#PWR278")
 					(unit 1)
 				)
 			)
@@ -16686,7 +16686,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da983f1c-9d43-4a1d-85a0-ceffe82349f8")
-		(property "Reference" "#PWR0282"
+		(property "Reference" "#PWR282"
 			(at 196.85 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -16746,7 +16746,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0282")
+					(reference "#PWR282")
 					(unit 1)
 				)
 			)
@@ -17008,7 +17008,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4cdcb64-a116-4cfe-8060-effd4cddd3b1")
-		(property "Reference" "#PWR0285"
+		(property "Reference" "#PWR285"
 			(at 196.85 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17068,7 +17068,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0285")
+					(reference "#PWR285")
 					(unit 1)
 				)
 			)
@@ -18144,7 +18144,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb7df935-76c2-4e55-89ed-fcb32a4cc610")
-		(property "Reference" "#PWR0275"
+		(property "Reference" "#PWR275"
 			(at 209.55 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -18204,7 +18204,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0275")
+					(reference "#PWR275")
 					(unit 1)
 				)
 			)
@@ -18221,7 +18221,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc197da4-ee8d-43b2-8745-08a1e160ee03")
-		(property "Reference" "#PWR0258"
+		(property "Reference" "#PWR258"
 			(at 64.77 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -18281,7 +18281,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0258")
+					(reference "#PWR258")
 					(unit 1)
 				)
 			)
@@ -18298,7 +18298,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe4ce80e-956d-4b06-9aa7-a6dc2d023b2d")
-		(property "Reference" "#PWR0265"
+		(property "Reference" "#PWR265"
 			(at 31.75 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -18358,7 +18358,7 @@
 		(instances
 			(project "RF_Comput_mix"
 				(path "/68d0ebd3-4770-4e42-a15d-94722405f64d/6c4ebfea-d4fe-4825-a43c-69aa5e6d2e1c/1be21a14-97a0-4733-9506-70e00bf26c69/9a76acf6-6ad9-4fe7-90a8-08703e720ec5"
-					(reference "#PWR0265")
+					(reference "#PWR265")
 					(unit 1)
 				)
 			)
